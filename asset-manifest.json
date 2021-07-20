@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/float3D/static/css/main.9b9fadd9.chunk.css",
+    "main.js": "/float3D/static/js/main.f6e55d6e.chunk.js",
+    "main.js.map": "/float3D/static/js/main.f6e55d6e.chunk.js.map",
+    "runtime-main.js": "/float3D/static/js/runtime-main.89faa513.js",
+    "runtime-main.js.map": "/float3D/static/js/runtime-main.89faa513.js.map",
+    "static/js/2.708772e1.chunk.js": "/float3D/static/js/2.708772e1.chunk.js",
+    "static/js/2.708772e1.chunk.js.map": "/float3D/static/js/2.708772e1.chunk.js.map",
+    "static/js/3.3738a494.chunk.js": "/float3D/static/js/3.3738a494.chunk.js",
+    "static/js/3.3738a494.chunk.js.map": "/float3D/static/js/3.3738a494.chunk.js.map",
+    "index.html": "/float3D/index.html",
+    "static/css/main.9b9fadd9.chunk.css.map": "/float3D/static/css/main.9b9fadd9.chunk.css.map",
+    "static/js/2.708772e1.chunk.js.LICENSE.txt": "/float3D/static/js/2.708772e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89faa513.js",
+    "static/js/2.708772e1.chunk.js",
+    "static/css/main.9b9fadd9.chunk.css",
+    "static/js/main.f6e55d6e.chunk.js"
+  ]
+}
