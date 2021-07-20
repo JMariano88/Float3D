@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Float3D/static/css/main.9b9fadd9.chunk.css",
-    "main.js": "/Float3D/static/js/main.79b26c7e.chunk.js",
-    "main.js.map": "/Float3D/static/js/main.79b26c7e.chunk.js.map",
+    "main.js": "/Float3D/static/js/main.1ddfb9ce.chunk.js",
+    "main.js.map": "/Float3D/static/js/main.1ddfb9ce.chunk.js.map",
     "runtime-main.js": "/Float3D/static/js/runtime-main.80b50714.js",
     "runtime-main.js.map": "/Float3D/static/js/runtime-main.80b50714.js.map",
     "static/js/2.708772e1.chunk.js": "/Float3D/static/js/2.708772e1.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.80b50714.js",
     "static/js/2.708772e1.chunk.js",
     "static/css/main.9b9fadd9.chunk.css",
-    "static/js/main.79b26c7e.chunk.js"
+    "static/js/main.1ddfb9ce.chunk.js"
   ]
 }
