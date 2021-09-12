@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Float3D/static/css/main.63368160.chunk.css",
-    "main.js": "/Float3D/static/js/main.97c548ea.chunk.js",
-    "main.js.map": "/Float3D/static/js/main.97c548ea.chunk.js.map",
+    "main.css": "/Float3D/static/css/main.caf0c08e.chunk.css",
+    "main.js": "/Float3D/static/js/main.1bcccafd.chunk.js",
+    "main.js.map": "/Float3D/static/js/main.1bcccafd.chunk.js.map",
     "runtime-main.js": "/Float3D/static/js/runtime-main.0ea16ca8.js",
     "runtime-main.js.map": "/Float3D/static/js/runtime-main.0ea16ca8.js.map",
     "static/js/2.8d2195b5.chunk.js": "/Float3D/static/js/2.8d2195b5.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.f3a0798a.chunk.js": "/Float3D/static/js/3.f3a0798a.chunk.js",
     "static/js/3.f3a0798a.chunk.js.map": "/Float3D/static/js/3.f3a0798a.chunk.js.map",
     "index.html": "/Float3D/index.html",
-    "static/css/main.63368160.chunk.css.map": "/Float3D/static/css/main.63368160.chunk.css.map",
+    "static/css/main.caf0c08e.chunk.css.map": "/Float3D/static/css/main.caf0c08e.chunk.css.map",
     "static/js/2.8d2195b5.chunk.js.LICENSE.txt": "/Float3D/static/js/2.8d2195b5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0ea16ca8.js",
     "static/js/2.8d2195b5.chunk.js",
-    "static/css/main.63368160.chunk.css",
-    "static/js/main.97c548ea.chunk.js"
+    "static/css/main.caf0c08e.chunk.css",
+    "static/js/main.1bcccafd.chunk.js"
   ]
 }
